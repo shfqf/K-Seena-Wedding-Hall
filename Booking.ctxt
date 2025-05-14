@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Booking
+comment1.params=weddingDate\ eventStartTime\ eventEndTime
+comment1.target=Booking(java.time.LocalDate,\ java.time.LocalTime,\ java.time.LocalTime)
+comment2.params=
+comment2.target=java.time.Duration\ getEventDuration()
+comment3.params=
+comment3.target=double\ calcDurationCharge()
+comment4.params=
+comment4.target=void\ displayDuration()
+numComments=5

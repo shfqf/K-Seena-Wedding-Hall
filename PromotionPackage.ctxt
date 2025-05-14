@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PromotionPackage
+comment1.params=eventDate\ eventStartTime\ eventEndTime\ typeHall\ capacity
+comment1.target=PromotionPackage(java.time.LocalDate,\ java.time.LocalTime,\ java.time.LocalTime,\ char,\ int)
+comment2.params=
+comment2.target=double\ calcPackagePrice()
+numComments=3

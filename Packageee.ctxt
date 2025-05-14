@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Packageee
+comment1.params=eventDate\ eventStartTime\ eventEndTime\ typeHall\ capacity
+comment1.target=Packageee(java.time.LocalDate,\ java.time.LocalTime,\ java.time.LocalTime,\ char,\ int)
+comment2.params=capacity
+comment2.target=void\ setCapacity(int)
+comment3.params=addOnOptions
+comment3.target=void\ setAddOnOptions(java.util.ArrayList)
+comment4.params=
+comment4.target=double\ getAddOnOptionPrice()
+comment5.params=
+comment5.target=double\ calcPackagePrice()
+comment6.params=
+comment6.target=double\ calcPrice()
+numComments=7
